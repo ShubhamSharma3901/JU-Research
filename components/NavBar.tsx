@@ -12,9 +12,11 @@ function NavBar() {
           className="laptop:w-[20rem] tablet:w-[15rem] xsPhone:w-[12rem]"
         />
       </div>
-      <a> Home</a>
-      <a> About</a>
-      <a> Contact</a>
+      <div className="flex  w-fit h-full justify-between items-center gap-10 text-white font-montserrat font-semibold ml-8">
+        <a> Home</a>
+        <a> About</a>
+        <a> Contact</a>
+      </div>
     </div>
   );
 }

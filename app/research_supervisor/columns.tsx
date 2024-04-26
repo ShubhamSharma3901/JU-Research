@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 "use client";
 
 import { phd_supervisor } from "@/types";
@@ -10,17 +11,26 @@ export const columns: ColumnDef<phd_supervisor>[] = [
   {
     accessorKey: "SNo",
     header: "S.No.",
+    cell: ({ row }) => <p>{row.index + 1}</p>,
   },
   {
-    accessorKey: "Name",
+    accessorKey: "name",
     header: "Name of Ph.D. Supervisor",
   },
   {
-    accessorKey: "Designation",
+    accessorKey: "designation",
     header: "Designtion of the Ph.D. Supervisor",
   },
   {
-    accessorKey: "Department",
+    accessorKey: "department",
     header: "Department of the Ph.D. Supervisor",
+  },
+  {
+    accessorKey: "contact_no",
+    header: "Phone of the Ph.D. Supervisor",
+  },
+  {
+    accessorKey: "email_id",
+    header: "Email of the Ph.D. Supervisor",
   },
 ];

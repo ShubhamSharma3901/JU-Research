@@ -6,67 +6,36 @@ import { useRouter } from "next/navigation";
 
 const navList = [
   {
-    title: "Publications",
-    href: "/publications",
+    title: "Ph.D. Ordinances",
+    href: "",
   },
   {
-    title: "Research Supervisors",
-    href: "/research_supervisor",
+    title: "Research Board",
+    href: "/",
   },
   {
-    title: "Funded Projects",
-    href: "/funded-projects",
+    title: "Publication Board",
+    href: "/",
   },
   {
-    title: "Patents",
-    href: "/patents",
-    // fields: [
-    //   {
-    //     name: "Created",
-    //   },
-    //   {
-    //     name: "Published",
-    //   },
-    //   {
-    //     name: "Submitted",
-    //   },
-    // ],
+    title: "Research Development Cell",
+    href: "/",
   },
   {
-    title: "Collaborations & MOU",
-    href: "/collab-mou",
+    title: "Committee",
+    href: "/",
   },
   {
-    title: "Achievements & awards",
-  },
-  {
-    title: "Policies & Guidelines",
-    href: "/Policy-Guidelines",
-  },
-  {
-    title: "Research Laboratories",
-  },
-  {
-    title: "Conferences",
-    href: "/Conferences",
-  },
-  {
-    title: "Invited Talks",
+    title: "Research Promotion Policy",
+    href: "/",
   },
 ];
 
-function Hero() {
+function Homepage() {
   const router = useRouter();
   return (
     <div className="w-full flex flex-col justify-center items-center pt-[5rem] gap-10">
-      <div className="w-full flex flex-col justify-center items-center gap-4">
-        <h1 className="uppercase font-semibold font-playfair tracking-wide tablet:text-4xl xsPhone:text-2xl">
-          Quick Links
-        </h1>
-        <hr className="h-[0.4rem] tablet:w-[6rem] xsPhone:w-[4rem] rounded-xl bg-red-500" />
-      </div>
-
-      <div className="grid tablet:w-[85%] xsPhone:w-full laptop:grid-cols-5 tablet:grid-cols-2 xsPhone:grid-cols-2 grid-rows-auto gap-6 tablet:px-10 xsPhone:px-6">
+      <div className="grid tablet:w-[85%] xsPhone:w-full laptop:grid-cols-3 tablet:grid-cols-2 xsPhone:grid-cols-2 grid-rows-auto gap-6 tablet:px-10 xsPhone:px-6">
         {navList.map((navItem, index) => {
           return (
             <>
@@ -90,4 +59,4 @@ function Hero() {
   );
 }
 
-export default Hero;
+export default Homepage;

@@ -16,8 +16,8 @@ export const columns: ColumnDef<patents>[] = [
     header: "Name",
   },
   {
-    accessorKey: "Title",
-    header: "Title",
+    accessorKey: "Patent_title",
+    header: " Patent Title",
   },
   {
     accessorKey: "ApplicationNum",
