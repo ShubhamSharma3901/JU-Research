@@ -1,0 +1,73 @@
+[
+  {
+    "SchoolName": "Jaipur School of Business",
+    "Departments": [
+      { "DepartmentName": "Business Administration" },
+      { "DepartmentName": "Commerce" }
+    ]
+  },
+  {
+    "SchoolName": "Jaipur School of Economics",
+    "Departments": [{ "DepartmentName": "Economics" }]
+  },
+  {
+    "SchoolName": "School of Allied Health Sciences",
+    "Departments": [
+      { "DepartmentName": "Physiotheraphy" },
+      { "DepartmentName": "Radiation Technology" },
+      { "DepartmentName": "Medical Lab Technology" }
+    ]
+  },
+  {
+    "SchoolName": "School of Computer of Applications",
+    "Departments": [{ "DepartmentName": "CA" }]
+  },
+  {
+    "SchoolName": "School of Design",
+    "Departments": [{ "DepartmentName": "Design" }]
+  },
+  {
+    "SchoolName": "School of Engineering and Technology",
+    "Departments": [
+      { "DepartmentName": "CSE" },
+      { "DepartmentName": "Civil Engineering" },
+      {
+        "DepartmentName": "EEE"
+      },
+      { "DepartmentName": "Mechanical Engineering" }
+    ]
+  },
+  {
+    "SchoolName": "School of Hospitality & Hotel Management",
+    "Departments": [{ "DepartmentName": "Hotel Management" }]
+  },
+  {
+    "SchoolName": "School of Humanities and Social Sciences",
+    "Departments": [
+      { "DepartmentName": "Psychology" },
+      { "DepartmentName": "Political Science" },
+      { "DepartmentName": "English" }
+    ]
+  },
+  {
+    "SchoolName": "School of Journalism and Mass Communication",
+    "Departments": [{ "DepartmentName": "JMC" }]
+  },
+  {
+    "SchoolName": "School of Law",
+    "Departments": [{ "DepartmentName": "Law" }]
+  },
+  {
+    "SchoolName": "School of Sciences",
+    "Departments": [
+      { "DepartmentName": "Forensic Science" },
+      { "DepartmentName": "Biotechnology" },
+      { "DepartmentName": "Microbiology" },
+      { "DepartmentName": "Chemistry" },
+      { "DepartmentName": "Physics" },
+      { "DepartmentName": "Zoology" },
+      { "DepartmentName": "Botany" },
+      { "DepartmentName": "Mathematics" }
+    ]
+  }
+]
