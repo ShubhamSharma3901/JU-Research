@@ -20,7 +20,7 @@ const Professors = () => {
         </div>
         {/* right */}
         <div className="w-2/3">
-          <p className="w-">
+          <p className="w-full text-center ml-9">
             Prof. Sanjay K. Sharma, FRSC, a Fellow of the Royal Society of
             Chemistry (UK), is a distinguished figure in the field of Organic
             Chemistry, with a Ph.D. from Rajasthan University, Jaipur, India.
