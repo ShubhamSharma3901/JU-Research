@@ -82,23 +82,23 @@ export default function JUFooter() {
             <div>
               <Footer.Title title="" />
               <Footer.LinkGroup col>
-                <Footer.Link href="">Home</Footer.Link>
-                <Footer.Link href="">Links</Footer.Link>
-                <Footer.Link href="">Metrics</Footer.Link>
+                <Footer.Link href="/">Home</Footer.Link>
+                <Footer.Link href="#links">Links</Footer.Link>
+                <Footer.Link href="#metrics">Metrics</Footer.Link>
               </Footer.LinkGroup>
             </div>
             <div>
               <Footer.Title title="" />
               <Footer.LinkGroup col>
-                <Footer.Link href="">Overview</Footer.Link>
-                <Footer.Link href="">Messages</Footer.Link>
+                <Footer.Link href="#overview">Overview</Footer.Link>
+                <Footer.Link href="#messages">Messages</Footer.Link>
               </Footer.LinkGroup>
             </div>
             <div>
               <Footer.Title title="" />
               <Footer.LinkGroup col>
-                <Footer.Link href="">Vision</Footer.Link>
-                <Footer.Link href="">Mission</Footer.Link>
+                <Footer.Link href="#vision">Vision</Footer.Link>
+                <Footer.Link href="#mission">Mission</Footer.Link>
               </Footer.LinkGroup>
             </div>
           </div>

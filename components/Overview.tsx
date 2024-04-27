@@ -2,7 +2,9 @@ import React from "react";
 
 function Overview() {
   return (
-    <div className="flex flex-col gap-10 w-full laptop:px-[10rem] xsPhone:px-[2rem] py-[5rem] justify-center items-center text-justify text-wrap font-montserrat">
+    <div
+      id={"overview"}
+      className="flex flex-col gap-10 w-full laptop:px-[10rem] xsPhone:px-[2rem] py-[5rem] justify-center items-center text-justify text-wrap font-montserrat">
       <div className="flex flex-col justify-center items-center gap-4">
         <h1 className="font-semibold font-playfair tracking-wide tablet:text-4xl xsPhone:text-2xl">
           OVERVIEW

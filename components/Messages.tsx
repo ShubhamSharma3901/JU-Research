@@ -12,7 +12,9 @@ import { Quote, QuoteIcon } from "lucide-react";
 export default function Messages() {
   const slideRef = useRef<SlideshowRef>(null);
   return (
-    <div className="relative h-[30rem] bg-[#DE1819] text-white flex flex-col justify-center items-center">
+    <div
+      id={"messages"}
+      className="relative h-[30rem] bg-[#DE1819] text-white flex flex-col justify-center items-center">
       <Carousel slideInterval={3000} pauseOnHover>
         <div className=" w-[85%]  flex justify-center items-center">
           <div className="w-[30%] flex flex-col justify-center items-center gap-8">

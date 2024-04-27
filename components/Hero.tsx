@@ -62,7 +62,9 @@ function Hero() {
   const router = useRouter();
   return (
     <div className="w-full flex flex-col justify-center items-center pt-[5rem] gap-10">
-      <div className="w-full flex flex-col justify-center items-center gap-4">
+      <div
+        className="w-full flex flex-col justify-center items-center gap-4"
+        id={"links"}>
         <h1 className="uppercase font-semibold font-playfair tracking-wide tablet:text-4xl xsPhone:text-2xl">
           Quick Links
         </h1>
