@@ -46,6 +46,7 @@ const navList = [
   },
   {
     title: "Research Laboratories",
+    href: "/labs/home",
   },
   {
     title: "Conferences",
@@ -53,6 +54,7 @@ const navList = [
   },
   {
     title: "Invited Talks",
+    href: "/talks",
   },
 ];
 

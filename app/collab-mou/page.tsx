@@ -1,6 +1,7 @@
 import { Collab_MOU } from "@/types";
 import { columns } from "./columns";
 import { DataTable } from "./data-table";
+import NavBreadCrumbs from "@/components/NavBreadCrumbs";
 
 // async function getData(): Promise<FundedProjects[]> {
 //   // Fetch data from your API here.
@@ -69,7 +70,27 @@ const data: Collab_MOU[] = [
 export default async function DemoPage() {
   return (
     <div className="container mx-auto py-10">
+      <div className="mb-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "COLLABORATIONS & MOU",
+              href: "/collab-mou",
+            },
+          ]}
+        />
+      </div>
       <DataTable columns={columns} data={data} />
+      <div className="my-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "COLLABORATIONS & MOU",
+              href: "/collab-mou",
+            },
+          ]}
+        />
+      </div>
     </div>
   );
 }

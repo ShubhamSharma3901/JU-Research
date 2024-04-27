@@ -2,6 +2,7 @@ import { patents } from "@/types";
 import { columns } from "./columns";
 import { DataTable } from "./data-table";
 import data from "@/json/patents.json";
+import NavBreadCrumbs from "@/components/NavBreadCrumbs";
 
 // async function getData(): Promise<FundedProjects[]> {
 //   // Fetch data from your API here.
@@ -19,7 +20,27 @@ import data from "@/json/patents.json";
 export default async function DemoPage() {
   return (
     <div className="container mx-auto py-10">
-      <DataTable columns={columns} data={data as patents[]} />
+      <div className="mb-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "PATENTS",
+              href: "/patents",
+            },
+          ]}
+        />
+      </div>
+      <DataTable columns={columns} data={data} />
+      <div className="my-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "PATENTS",
+              href: "/patents",
+            },
+          ]}
+        />
+      </div>
     </div>
   );
 }

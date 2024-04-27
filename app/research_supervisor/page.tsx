@@ -4,6 +4,7 @@ import { columns } from "./columns";
 import { DataTable } from "./data-table";
 import dataSuperviser from "@/json/supervisors.json";
 import { useEffect, useState } from "react";
+import NavBreadCrumbs from "@/components/NavBreadCrumbs";
 
 // async function getData(): Promise<FundedProjects[]> {
 //   // Fetch data from your API here.
@@ -29,10 +30,30 @@ export default function DemoPage() {
   }, [departmentToShow]);
   return (
     <div className="container mx-auto py-10">
+      <div className="mb-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "RESEARCH SUPERVISORS",
+              href: "",
+            },
+          ]}
+        />
+      </div>
       <Reseach_Dropdowns setDepartmentToShow={setDepartmentToShow} />
       {data && departmentToShow != "" && (
         <DataTable columns={columns} data={data} />
       )}
+      <div className="my-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "RESEARCH SUPERVISORS",
+              href: "",
+            },
+          ]}
+        />
+      </div>
     </div>
   );
 }

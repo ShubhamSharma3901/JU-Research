@@ -1,6 +1,7 @@
 import { Conferences } from "@/types";
 import { columns } from "./columns";
 import { DataTable } from "./data-table";
+import NavBreadCrumbs from "@/components/NavBreadCrumbs";
 
 // async function getData(): Promise<FundedProjects[]> {
 //   // Fetch data from your API here.
@@ -15,43 +16,32 @@ import { DataTable } from "./data-table";
 //   ];
 // }
 
-const data: Conferences[] = [
-  {
-    Sno: 1,
-    Name_of_conference: "Research and development",
-    Date: "7/10/2023",
-    href: "/",
-  },
-  {
-    Sno: 2,
-    Name_of_conference: "Research and development",
-    Date: "7/10/2023",
-    href: "/",
-  },
-  {
-    Sno: 3,
-    Name_of_conference: "Research and development",
-    Date: "7/10/2023",
-    href: "/",
-  },
-  {
-    Sno: 4,
-    Name_of_conference: "Research and development",
-    Date: "7/10/2023",
-    href: "/",
-  },
-  {
-    Sno: 5,
-    Name_of_conference: "Research and development",
-    Date: "7/10/2023",
-    href: "/",
-  },
-];
+const data: Conferences[] = [];
 
 export default async function DemoPage() {
   return (
     <div className="container mx-auto py-10">
+      <div className="mb-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "Conferences",
+              href: "/conferences",
+            },
+          ]}
+        />
+      </div>
       <DataTable columns={columns} data={data} />
+      <div className="my-6">
+        <NavBreadCrumbs
+          page={[
+            {
+              name: "Conferences",
+              href: "/conferences",
+            },
+          ]}
+        />
+      </div>
     </div>
   );
 }

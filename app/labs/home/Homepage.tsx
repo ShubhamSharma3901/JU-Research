@@ -6,20 +6,20 @@ import { useRouter } from "next/navigation";
 
 const navList = [
   {
-    title: "Ph.D. Ordinances",
-    href: "",
+    title: "Research Lab of Sciences",
+    href: "/labs/science",
   },
   {
-    title: "Research & Publications Board",
-    href: "/",
+    title: "Research Lab for Physics(Material Science Research Lab)",
+    href: "/labs/physics",
   },
   {
-    title: "Research & Development Cell",
-    href: "/",
+    title: "MATLAB(Under Deptt of ECE)",
+    href: "/labs/matlab",
   },
   {
-    title: "Research Promotion Policy",
-    href: "/",
+    title: "MakerSpace",
+    href: "/labs/makerspace",
   },
 ];
 
