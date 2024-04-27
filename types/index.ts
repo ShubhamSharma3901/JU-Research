@@ -16,7 +16,7 @@ export type phd_supervisor = {
 };
 
 export type patents = {
-  SNo: number;
+  SNo?: number;
   Name: string;
   Patent_title: string;
   ApplicationNum: string;
@@ -49,4 +49,21 @@ export type Conferences = {
   Name_of_conference: string;
   Date: string;
   href?: string;
+};
+
+export type ScholarsAwards = {
+  name: string;
+  reg_no: string;
+  department: string;
+  award_name: string;
+  award_date: string;
+  award_body: string;
+};
+export type FacultyAwards = {
+  name: string;
+  designation: string;
+  department: string;
+  award_name: string;
+  award_date: string;
+  award_body: string;
 };

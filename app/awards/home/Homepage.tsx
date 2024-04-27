@@ -6,24 +6,16 @@ import { useRouter } from "next/navigation";
 
 const navList = [
   {
-    title: "Ph.D. Ordinances",
-    href: "",
+    title: "Faculty Members",
+    href: "/awards/faculty",
   },
   {
-    title: "Research & Publications Board",
-    href: "/",
+    title: "Research Scholars",
+    href: "/awards/scholars",
   },
   {
-    title: "Research & Development Cell",
-    href: "/",
-  },
-  {
-    title: "Committees",
-    href: "/",
-  },
-  {
-    title: "Research Promotion Policy",
-    href: "/",
+    title: "Standford University List of World's 2% Scientists",
+    href: "/awards/scientists",
   },
 ];
 

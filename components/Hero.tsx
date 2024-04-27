@@ -38,6 +38,7 @@ const navList = [
   },
   {
     title: "Achievements & awards",
+    href: "/awards/home",
   },
   {
     title: "Policies & Guidelines",

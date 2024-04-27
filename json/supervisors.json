@@ -448,1375 +448,507 @@
     "email_id": "namita.jain@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Priyanka Sharma",
-    "designation": "Assistant Professor-I",
-    "department": "Law",
-    "contact_no": "9602157257",
-    "email_id": "priyanka.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Gahlawat",
-    "designation": "Assistant Professor-I",
-    "department": "Law",
-    "contact_no": "8837696881",
-    "email_id": "sunita.gahlawat@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunil Panwar",
-    "designation": "Assistant Professor-I",
-    "department": "Law",
-    "contact_no": "9461003676",
-    "email_id": "sunil.panwar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rohitash Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "9530811122",
-    "email_id": "rohitash.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Jyoti Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "9530811188",
-    "email_id": "jyoti.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Dimple Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "9462205753",
-    "email_id": "dimple.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Arvind Vishwakarma",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "8769757561",
-    "email_id": "arvind.vishwakarma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Dhananjay Singh",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "9024904768",
-    "email_id": "dhananjay.singh@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Vartika Mathur",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "8107257258",
-    "email_id": "vartika.mathur@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Mohan Chand Gupta",
-    "designation": "Assistant Professor-II",
-    "department": "Law",
-    "contact_no": "8104200326",
-    "email_id": "mohan.gupta@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sudhir Kumar Chaturvedi",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "8104268270",
-    "email_id": "sudhir.chaturvedi@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Manish Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9015099319",
-    "email_id": "manish.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rahul Singhal",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9829312604",
-    "email_id": "rahul.singhal@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Vaishali Agarwal",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "8003659815",
-    "email_id": "vaishali.agarwal@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ritesh Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9413955729",
-    "email_id": "ritesh.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Mita Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "7412823330",
-    "email_id": "mita.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Snehlata Tripathi",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9829011310",
-    "email_id": "snehlata.tripathi@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Umesh Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9413322154",
-    "email_id": "umesh.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ruchika Arora",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "7014054228",
-    "email_id": "ruchika.arora@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ruchi Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9460721274",
-    "email_id": "ruchi.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ranjana Vaishnav",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9529992084",
-    "email_id": "ranjana.vaishnav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Jitendra Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9460712564",
-    "email_id": "jitendra.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ranveer Singh",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9414810174",
-    "email_id": "ranveer.singh@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shalini Mathur",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9024632053",
-    "email_id": "shalini.mathur@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Prashant Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9529355731",
-    "email_id": "prashant.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Dimple Pandey",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "8104268310",
-    "email_id": "dimple.pandey@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ashish Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9829122463",
-    "email_id": "ashish.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sweta Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "8107238709",
-    "email_id": "sweta.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Vinod Kumar Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9587293479",
-    "email_id": "vinod.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sushila Kumawat",
-    "designation": "Assistant Professor-II",
-    "department": "Mathematics",
-    "contact_no": "9079291886",
-    "email_id": "sushila.kumawat@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Avinash Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "8107014849",
-    "email_id": "avinash.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Saurabh Chakraborty",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9650292501",
-    "email_id": "saurabh.chakraborty@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Priyanka Jain",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9530459369",
-    "email_id": "priyanka.jain@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Nisha Tanwar",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9782901485",
-    "email_id": "nisha.tanwar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Neha Jain",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9649646745",
-    "email_id": "neha.jain@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Prachi Srivastava",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9414053524",
-    "email_id": "prachi.srivastava@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Preeti Agarwal",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9610745463",
-    "email_id": "preeti.agarwal@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Namita Mathur",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9166134966",
-    "email_id": "namita.mathur@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shailendra Varshney",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9166316489",
-    "email_id": "shailendra.varshney@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Jyoti Kaushik",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9414404212",
-    "email_id": "jyoti.kaushik@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Naresh Karmaji",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9636299441",
-    "email_id": "naresh.karmaji@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Komal Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9636899166",
-    "email_id": "komal.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Dinesh Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Mechanical Engineering",
-    "contact_no": "9783934444",
-    "email_id": "dinesh.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Pooja Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828507756",
-    "email_id": "pooja.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Hemant Gehlot",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023043002",
-    "email_id": "hemant.gehlot@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Vinit Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001309080",
-    "email_id": "vinit.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rajneesh Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9414115051",
-    "email_id": "rajneesh.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ritu Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8824357199",
-    "email_id": "ritu.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Kiran Joshi",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9625075656",
-    "email_id": "kiran.joshi@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shobha Mathur",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023170207",
-    "email_id": "shobha.mathur@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Archana Dangi",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8003621021",
-    "email_id": "archana.dangi@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Anuj Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828112830",
-    "email_id": "anuj.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Saurabh Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9829595954",
-    "email_id": "saurabh.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Monica Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001636566",
-    "email_id": "monica.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Neelam Rawat",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929603174",
-    "email_id": "neelam.rawat@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sumita Chaturvedi",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929339030",
-    "email_id": "sumita.chaturvedi@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rajiv Kumar Jangid",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9529086609",
-    "email_id": "rajiv.jangid@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Devender Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9024822170",
-    "email_id": "devender.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Pradeep Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001924482",
-    "email_id": "pradeep.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Gupta",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828323690",
-    "email_id": "seema.gupta@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shyam Kumar Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9950035934",
-    "email_id": "shyam.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Swati Agarwal",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9530811991",
-    "email_id": "swati.agarwal@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Surbhi Saxena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9530811130",
-    "email_id": "surbhi.saxena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Manisha Soni",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9414849513",
-    "email_id": "manisha.soni@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunil Kumar Singh",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8104246334",
-    "email_id": "sunil.singh@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Pooja Rathore",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023452507",
-    "email_id": "pooja.rathore@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Meena Verma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001875488",
-    "email_id": "meena.verma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shailendra Kumar Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8104404462",
-    "email_id": "shailendra.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shalini Pathak",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9414557506",
-    "email_id": "shalini.pathak@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Arvind Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9783448404",
-    "email_id": "arvind.saini@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Manjul Jain",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9414435265",
-    "email_id": "manjul.jain@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Bhavna Saxena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828765009",
-    "email_id": "bhavna.saxena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Akanksha Pandey",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9983531695",
-    "email_id": "akanksha.pandey@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Reena Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9587997712",
-    "email_id": "reena.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ankita Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9461070121",
-    "email_id": "ankita.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Renu Verma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9783955588",
-    "email_id": "renu.verma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ranjana Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9784099990",
-    "email_id": "ranjana.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Priyanka Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9784849113",
-    "email_id": "priyanka.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Anshu Jain",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107751488",
-    "email_id": "anshu.jain@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Swati Gupta",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9829011750",
-    "email_id": "swati.gupta@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Manisha Jain",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9928273874",
-    "email_id": "manisha.jain@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shalini Maheshwari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636198909",
-    "email_id": "shalini.maheshwari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sharda Shree",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828491485",
-    "email_id": "sharda.shree@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Priya Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9782901461",
-    "email_id": "priya.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Swati Gupta",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636898619",
-    "email_id": "swati.gupta@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Asha Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023245175",
-    "email_id": "asha.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Neha Rathore",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001015545",
-    "email_id": "neha.rathore@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Poonam Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636898619",
-    "email_id": "poonam.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Swati Mathur",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9829010524",
-    "email_id": "swati.mathur@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Mamta Gupta",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636978910",
-    "email_id": "mamta.gupta@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shweta Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9829353067",
-    "email_id": "shweta.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sonali Gupta",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929272072",
-    "email_id": "sonali.gupta@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Nandwana",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9928273569",
-    "email_id": "seema.nandwana@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001244599",
-    "email_id": "sunita.saini@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunaina Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636287359",
-    "email_id": "sunaina.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rajni Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929702344",
-    "email_id": "rajni.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sushmita Bhatnagar",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9782761071",
-    "email_id": "sushmita.bhatnagar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sushma Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929339605",
-    "email_id": "sushma.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sushila Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636939086",
-    "email_id": "sushila.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shweta Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9166606280",
-    "email_id": "shweta.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Neeraj Soni",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636139210",
-    "email_id": "neeraj.soni@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Shweta Singh",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001521585",
-    "email_id": "shweta.singh@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Soni",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9166194976",
-    "email_id": "seema.soni@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ravi Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636341617",
-    "email_id": "ravi.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunil Kumar Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636248081",
-    "email_id": "sunil.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rajkumar Verma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636732382",
-    "email_id": "rajkumar.verma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Praveen Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023770715",
-    "email_id": "praveen.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Surendra Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001909154",
-    "email_id": "surendra.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Prakash Singh",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9782901317",
-    "email_id": "prakash.singh@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Priyanka Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023976970",
-    "email_id": "priyanka.saini@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunil Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001898981",
-    "email_id": "sunil.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Pankaj Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023452715",
-    "email_id": "pankaj.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rajni Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001992498",
-    "email_id": "rajni.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ranu Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9166633444",
-    "email_id": "ranu.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Reena Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001909157",
-    "email_id": "reena.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ritu Mathur",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023462007",
-    "email_id": "ritu.mathur@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Saroj Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023434741",
-    "email_id": "saroj.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sangita Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9783449103",
-    "email_id": "sangita.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Santosh Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001196790",
-    "email_id": "santosh.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107677472",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunil Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023291199",
-    "email_id": "sunil.kumar@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sneha Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107677473",
-    "email_id": "sneha.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Priyanka Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828367077",
-    "email_id": "priyanka.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sheela Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107357891",
-    "email_id": "sheela.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Santosh Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9829011640",
-    "email_id": "santosh.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ranjana Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9828760063",
-    "email_id": "ranjana.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sheela Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9782901811",
-    "email_id": "sheela.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Swati Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001449909",
-    "email_id": "swati.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rani Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023145825",
-    "email_id": "rani.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Santosh Yadav",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107704240",
-    "email_id": "santosh.yadav@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sneha Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023157469",
-    "email_id": "sneha.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "7023982113",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sushma Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636004723",
-    "email_id": "sushma.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sneha Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001915276",
-    "email_id": "sneha.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rani Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001923244",
-    "email_id": "rani.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sarita Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9783939036",
-    "email_id": "sarita.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636051319",
-    "email_id": "seema.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ritu Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929086944",
-    "email_id": "ritu.saini@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9783300302",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Santosh Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636649495",
-    "email_id": "santosh.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001655242",
-    "email_id": "seema.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sarita Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929872189",
-    "email_id": "sarita.saini@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sandeep Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9929762304",
-    "email_id": "sandeep.saini@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ravi Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107091019",
-    "email_id": "ravi.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Renu Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636408038",
-    "email_id": "renu.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107080841",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunil Kumar",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636678586",
-    "email_id": "sunil.kumar@jecrcu.edu.in"
-  },
-  {
     "name": "Dr. Ritu Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636923039",
+    "designation": "Assistant Professor-I",
+    "department": "Law",
+    "contact_no": "9654109035",
     "email_id": "ritu.meena@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Renu Meena",
+    "name": "Dr. Anju Kalwar",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636938874",
-    "email_id": "renu.meena@jecrcu.edu.in"
+    "department": "Law",
+    "contact_no": "7790900544",
+    "email_id": "anju.kalwar@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Ritu Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636939881",
-    "email_id": "ritu.saini@jecrcu.edu.in"
+    "name": "Dr. Ruchi Goyal",
+    "designation": "Professor",
+    "department": "Management",
+    "contact_no": "9414209959",
+    "email_id": "ruchi.goyal@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Saroj Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107081022",
-    "email_id": "saroj.kumari@jecrcu.edu.in"
+    "name": "Dr. Nupur Chaturvedi Sharma",
+    "designation": "Professor",
+    "department": "Management",
+    "contact_no": "9717100353",
+    "email_id": "nupur.sharma@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sandeep Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636924569",
-    "email_id": "sandeep.sharma@jecrcu.edu.in"
+    "name": "Dr. Renu Pareek",
+    "designation": "Professor",
+    "department": "Management",
+    "contact_no": "9828563328",
+    "email_id": "renu.pareek@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sunita Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636938084",
-    "email_id": "sunita.meena@jecrcu.edu.in"
+    "name": "Dr. Sandeep Naga",
+    "designation": "Professor",
+    "department": "Management",
+    "contact_no": "9829647101",
+    "email_id": "sandeep.naga@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sarita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107044656",
-    "email_id": "sarita.kumari@jecrcu.edu.in"
+    "name": "Dr. Swati Bhargava",
+    "designation": "Associate Professor",
+    "department": "Management",
+    "contact_no": "9413225407",
+    "email_id": "swati.bhargava@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Rani Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "8107080907",
-    "email_id": "rani.kumari@jecrcu.edu.in"
+    "name": "Dr. Jyoti Jain",
+    "designation": "Associate Professor",
+    "department": "Management",
+    "contact_no": "9462358103",
+    "email_id": "jyoti.jain@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636938930",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
+    "name": "Dr. Rashmi Sharma",
+    "designation": "Associate Professor",
+    "department": "Management",
+    "contact_no": "9828999778",
+    "email_id": "rashmi.sharma@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Seema Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9001196690",
-    "email_id": "seema.sharma@jecrcu.edu.in"
+    "name": "Dr. Pallavi Mathur",
+    "designation": "Associate Professor",
+    "department": "Management",
+    "contact_no": "9887444410",
+    "email_id": "pallavi.mathur@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Ritu Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636054583",
-    "email_id": "ritu.sharma@jecrcu.edu.in"
+    "name": "Dr. Jyoti Meratwal",
+    "designation": "Associate Professor",
+    "department": "Management",
+    "contact_no": "9928797577",
+    "email_id": "jyoti.meratwal@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636001927",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
+    "name": "Dr. Nimesh Gupta",
+    "designation": "Associate Professor",
+    "department": "Management",
+    "contact_no": "9983806969",
+    "email_id": "nimesh.gupta@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sarita Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636014851",
-    "email_id": "sarita.meena@jecrcu.edu.in"
+    "name": "Dr. Poonam Rajharia",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "6378709334",
+    "email_id": "poonam.rajharia@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sandeep Saini",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636015673",
-    "email_id": "sandeep.saini@jecrcu.edu.in"
+    "name": "Dr. Ati Agarwal",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "7974846277",
+    "email_id": "ati.agarwal@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Rani Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636016607",
-    "email_id": "rani.kumari@jecrcu.edu.in"
+    "name": "Dr. Ashok Kumar Meena",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "8079086920",
+    "email_id": "ashok.meena@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sneha Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636017731",
-    "email_id": "sneha.meena@jecrcu.edu.in"
+    "name": "Dr. Amit Kumar Sharma",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9024521721",
+    "email_id": "amitkumar.sharma1@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Seema Sharma",
+    "name": "Dr. Monu Kuruvilla",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9214128650",
+    "email_id": "m.kuruvilla@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Hemant Verma",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9351701000",
+    "email_id": "hemant.verma@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Ram Garg",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9413902425",
+    "email_id": "ram.garg@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Varsha Tiwari",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9414335187",
+    "email_id": "varsha.tiwari@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Usha Chouhan",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9460572147",
+    "email_id": "usha.chouhan@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Neha Gupta",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9560460768",
+    "email_id": "neha.gupta@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Arun Gautam",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9680824211",
+    "email_id": "arun.gautam@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Princi Gupta",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9761483462",
+    "email_id": "princi.gupta@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Ritu Dixit",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9829058959",
+    "email_id": "ritu.dixit@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Isac Gunday",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9866752159",
+    "email_id": "isac.gunde@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Manish Sharma",
+    "designation": "Assistant Professor-I",
+    "department": "Management",
+    "contact_no": "9929938955",
+    "email_id": "manish.sharmag@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Jagdev Singh",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "contact_no": "9460905224",
+    "email_id": "jagdev.singh@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Seema Tinker",
+    "designation": "Professor",
+    "department": "Mathematics",
+    "contact_no": "9828547271",
+    "email_id": "seema.tinker@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Pradeep Gaur",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "contact_no": "6375361822",
+    "email_id": "pradeep.gaur@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Smita Jain",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "contact_no": "8829017802",
+    "email_id": "smita.jain@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Vishwas Deep Joshi",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "contact_no": "9252339845",
+    "email_id": "vishwasdeep.joshi@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Abhishek Neemawat",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "contact_no": "9414606243",
+    "email_id": "abhishek.neemawat@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Monika Jain",
+    "designation": "Associate Professor",
+    "department": "Mathematics",
+    "contact_no": "9460186945",
+    "email_id": "monika.jain@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Rachana Saini",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "7877011633",
+    "email_id": "rachana.saini@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Gauri Shankar Paliwal",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "8233711878",
+    "email_id": "gaurishankar.paliwal@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Om Prakash",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "8302039548",
+    "email_id": "om.prakash1@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Ram Chandra",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "8887496480",
+    "email_id": "ram.chandra@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Dinesh Kumar Yadav",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "9196041267",
+    "email_id": "dinesh.yadav@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Sapna Tyagi",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "9837102425",
+    "email_id": "sapna.tyagi@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Beena Bundela",
+    "designation": "Assistant Professor-I",
+    "department": "Mathematics",
+    "contact_no": "9887769537",
+    "email_id": "beena.bundela@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Pankaj Sharma",
+    "designation": "Professor",
+    "department": "ME",
+    "contact_no": "9116974770",
+    "email_id": "pankaj.sharma1@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Ajay",
+    "designation": "Professor",
+    "department": "ME",
+    "contact_no": "9467717120",
+    "email_id": "ajay@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Kanishk Sharma",
+    "designation": "Associate Professor",
+    "department": "ME",
+    "contact_no": "7296916098",
+    "email_id": "kanishk.sharma@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Chandramani Goswami",
+    "designation": "Assistant Professor-I",
+    "department": "ME",
+    "contact_no": "8982838736",
+    "email_id": "chandramani.goswami@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Anubhav Kumar",
+    "designation": "Assistant Professor-I",
+    "department": "ME",
+    "contact_no": "9414936300",
+    "email_id": "anubhav.kumar@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Varsha Gupta",
+    "designation": "Professor",
+    "department": "Microbiology",
+    "contact_no": "9351480730",
+    "email_id": "varsha.gupta@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Devki",
+    "designation": "Assistant Professor-I",
+    "department": "Microbiology",
+    "contact_no": "8385999724",
+    "email_id": "devkimicrobiology@gmail.com"
+  },
+  {
+    "name": "Dr. Ravi Kant Rahi",
+    "designation": "Assistant Professor-I",
+    "department": "Microbiology",
+    "contact_no": "9461014440",
+    "email_id": "ravi.rahi@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Deepesh Kumar Neelam",
+    "designation": "Assistant Professor-I",
+    "department": "Microbiology",
+    "contact_no": "9636612723",
+    "email_id": "deepesh.neelam@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Mansvi Yadav",
     "designation": "Assistant Professor-II",
+    "department": "Microbiology",
+    "contact_no": "9571593599",
+    "email_id": "mansvi.yadav@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Mohammad Irfan Ali",
+    "designation": "Associate Professor",
+    "department": "MLT",
+    "contact_no": "8696333307",
+    "email_id": "irfan.ali@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Pranav Saxena",
+    "designation": "Professor",
     "department": "Physics",
-    "contact_no": "9636018955",
-    "email_id": "seema.sharma@jecrcu.edu.in"
+    "contact_no": "9414201639",
+    "email_id": "pranav.saxena@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Chandan Joshi",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "contact_no": "8239207860",
+    "email_id": "chandan.joshi@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Abhishek Sharma",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "contact_no": "9460367796",
+    "email_id": "abhishek.sharma@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Nishant Gaur",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "contact_no": "9462342096",
+    "email_id": "nishant.gaur@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Shivani Agarwal",
+    "designation": "Associate Professor",
+    "department": "Physics",
+    "contact_no": "9828535545",
+    "email_id": "shivani.agarwal@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Hariom Pawar",
+    "designation": "Assistant Professor-I",
+    "department": "Physics",
+    "contact_no": "8871580623",
+    "email_id": "hariom.pawar@jecrcu.edu.in"
+  },
+  {
+    "name": "Dr. Trupti Sharma",
+    "designation": "Assistant Professor-I",
+    "department": "Physics",
+    "contact_no": "9509677611",
+    "email_id": "trupti.sharma@jecrcu.edu.in"
   },
   {
     "name": "Dr. Renu Sharma",
-    "designation": "Assistant Professor-II",
+    "designation": "Assistant Professor-I",
     "department": "Physics",
-    "contact_no": "9636020181",
+    "contact_no": "9530243116",
     "email_id": "renu.sharma@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636021394",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
+    "name": "Dr. Vishal Jain",
+    "designation": "Professor",
+    "department": "Physiotherapy",
+    "contact_no": "9414671733",
+    "email_id": "vishal.jain@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Saroj Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636022715",
-    "email_id": "saroj.kumari@jecrcu.edu.in"
+    "name": "Dr. Deepika Sharma",
+    "designation": "Assistant Professor-I",
+    "department": "Physiotherapy",
+    "contact_no": "9549807072",
+    "email_id": "deepika.sharma1@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Saroj Sharma",
+    "name": "Dr. Aakanksha Sharma",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636023939",
-    "email_id": "saroj.sharma@jecrcu.edu.in"
+    "department": "Physiotherapy",
+    "contact_no": "7535976753",
+    "email_id": "aakanksha.sharma@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sandeep Sharma",
+    "name": "Dr. Meghna Singh",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636025158",
-    "email_id": "sandeep.sharma@jecrcu.edu.in"
+    "department": "Physiotherapy",
+    "contact_no": "7834896961",
+    "email_id": "meghna.singh@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sunita Meena",
+    "name": "Dr. Purvanshi Khatri",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636026382",
-    "email_id": "sunita.meena@jecrcu.edu.in"
+    "department": "Physiotherapy",
+    "contact_no": "7976321019",
+    "email_id": "purvanshi.khatri@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Saroj Meena",
+    "name": "Dr. Chanchal Basant Sharma",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636027606",
-    "email_id": "saroj.meena@jecrcu.edu.in"
+    "department": "Physiotherapy",
+    "contact_no": "8238201375",
+    "email_id": "chanchal.sharma@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sandeep Meena",
+    "name": "Dr. Sumit Dwivedi",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636028831",
-    "email_id": "sandeep.meena@jecrcu.edu.in"
+    "department": "Physiotherapy",
+    "contact_no": "9399016837",
+    "email_id": "sumit.dwivedi@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sheela Meena",
+    "name": "Dr. Reetika Singh",
     "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636030055",
-    "email_id": "sheela.meena@jecrcu.edu.in"
+    "department": "Physiotherapy",
+    "contact_no": "9413438522",
+    "email_id": "reetika.singh@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Renu Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636031279",
-    "email_id": "renu.meena@jecrcu.edu.in"
+    "name": "Dr. Susanta Kumar Naik",
+    "designation": "Assistant Professor-I",
+    "department": "Political Science",
+    "contact_no": "9538909850",
+    "email_id": "susanta.naik@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636032504",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
+    "name": "Dr. Harshita Kumar",
+    "designation": "Assistant Professor-I",
+    "department": "Psychology",
+    "contact_no": "8107378293",
+    "email_id": "harshita.kumar@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Sheela Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636033728",
-    "email_id": "sheela.kumari@jecrcu.edu.in"
+    "name": "Dr. Meenakshi Dadhich",
+    "designation": "Assistant Professor-I",
+    "department": "Psychology",
+    "contact_no": "9983322372",
+    "email_id": "meenakshi.dadhich@jecrcu.edu.in"
   },
   {
-    "name": "Dr. Saroj Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636034953",
-    "email_id": "saroj.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636036177",
-    "email_id": "sunita.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sandeep Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636037401",
-    "email_id": "sandeep.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sneha Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636038626",
-    "email_id": "sneha.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636039850",
-    "email_id": "seema.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sneha Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636041075",
-    "email_id": "sneha.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Renu Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636042301",
-    "email_id": "renu.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636043526",
-    "email_id": "seema.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ritu Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636044751",
-    "email_id": "ritu.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sandeep Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636045975",
-    "email_id": "sandeep.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sarita Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636047200",
-    "email_id": "sarita.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Rani Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636048425",
-    "email_id": "rani.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Ritu Sharma",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636049650",
-    "email_id": "ritu.sharma@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Seema Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636050875",
-    "email_id": "seema.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sunita Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636052100",
-    "email_id": "sunita.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sandeep Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636053325",
-    "email_id": "sandeep.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sheela Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636054550",
-    "email_id": "sheela.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Saroj Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636055775",
-    "email_id": "saroj.meena@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sandeep Kumari",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636057000",
-    "email_id": "sandeep.kumari@jecrcu.edu.in"
-  },
-  {
-    "name": "Dr. Sarita Meena",
-    "designation": "Assistant Professor-II",
-    "department": "Physics",
-    "contact_no": "9636058225",
-    "email_id": "sarita.meena@jecrcu.edu.in"
+    "name": "Dr. Rajesh Yadav",
+    "designation": "Professor",
+    "department": "Zoology",
+    "contact_no": "9828199542",
+    "email_id": "rajesh.yadav@jecrcu.edu.in"
   }
 ]

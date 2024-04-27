@@ -1,7 +1,6 @@
-import { patents } from "@/types";
+import { Conferences, ScholarsAwards } from "@/types";
 import { columns } from "./columns";
 import { DataTable } from "./data-table";
-import data from "@/json/patents.json";
 
 // async function getData(): Promise<FundedProjects[]> {
 //   // Fetch data from your API here.
@@ -16,10 +15,12 @@ import data from "@/json/patents.json";
 //   ];
 // }
 
+const data: ScholarsAwards[] = [];
+
 export default async function DemoPage() {
   return (
     <div className="container mx-auto py-10">
-      <DataTable columns={columns} data={data as patents[]} />
+      <DataTable columns={columns} data={data} />
     </div>
   );
 }

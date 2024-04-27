@@ -10,6 +10,7 @@ export const columns: ColumnDef<patents>[] = [
   {
     accessorKey: "SNo",
     header: "S.No.",
+    cell: ({ row }) => row.index + 1,
   },
   {
     accessorKey: "Name",

@@ -9,7 +9,7 @@ import { ColumnDef } from "@tanstack/react-table";
 export const columns: ColumnDef<FundedProjects>[] = [
   {
     accessorKey: "SNo",
-    header: "S.No.",
+    header: () => "S.No.",
   },
   {
     accessorKey: "ProjectName",
