@@ -40,7 +40,7 @@ function HomePageCards() {
         <div className="h-auto rounded-lg flex-col text-center p-10 w-[1/3] py-20 border bg-[#DE1819] text-white flex justify-center items-center text-4xl font-montserrat font-bold">
           <div>
             ₹&nbsp;
-            <CountUp start={0} end={9.2581} scrollSpyOnce />
+            <CountUp start={0} end={13.5} scrollSpyOnce />
             &nbsp;Cr.&nbsp;+
           </div>
           <p className="text-lg">Research Grants</p>
