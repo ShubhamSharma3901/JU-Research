@@ -14,9 +14,9 @@ function Overview() {
 
       <div>
         <p className="tablet:text-lg xsPhone:text-md leading-relaxed">
-          The research department at <b>JECRC University </b>
-          is a dynamic hub of multidisciplinary inquiry, driven by a diverse
-          faculty with expertise spanning engineering, sciences, humanities, and
+          The <b>research and development cell</b> at JECRC University is a
+          dynamic hub of multidisciplinary inquiry, driven by a diverse faculty
+          with expertise spanning engineering, sciences, humanities, and
           management. Equipped with state-of-the-art facilities including
           specialized laboratories and research centers, the department fosters
           a culture of innovation and collaboration. It actively seeks funding
