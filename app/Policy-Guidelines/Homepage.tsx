@@ -7,19 +7,19 @@ import { useRouter } from "next/navigation";
 const navList = [
   {
     title: "Ph.D. Ordinances",
-    href: "",
+    href: "https://drive.google.com/file/d/1gFF40czHT_ZmRVGyHBrSm1fQbAXC4WDU/view?usp=sharing",
   },
   {
     title: "Research & Publications Board",
-    href: "/",
+    href: "https://drive.google.com/file/d/12YuYs1MNkz99Emf8ZKY9r4UM6iQIJqeU/view?usp=sharing",
   },
   {
     title: "Research & Development Cell",
-    href: "/",
+    href: "https://drive.google.com/file/d/11be397X9gV7avQtyOAWGDwBtO71MWWBM/view?usp=sharing",
   },
   {
     title: "Research Promotion Policy",
-    href: "/",
+    href: "https://drive.google.com/file/d/1b-X1se5NdLPlQfi9eynQchYpIvvWBAUt/view?usp=sharing",
   },
 ];
 
