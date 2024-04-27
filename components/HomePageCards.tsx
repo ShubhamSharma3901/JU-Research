@@ -48,7 +48,7 @@ function HomePageCards() {
 
         <div className="h-auto rounded-lg flex-col w-[1/3] p-10 border bg-[#DE1819] py-20 text-white flex justify-center items-center text-4xl font-montserrat font-bold">
           <div>
-            <CountUp start={0} end={100} scrollSpyOnce />
+            <CountUp start={0} end={30} scrollSpyOnce />
             &nbsp;+
           </div>
           <p className="text-lg">Patents Granted</p>

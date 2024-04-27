@@ -2,6 +2,7 @@ import { Conferences } from "@/types";
 import { columns } from "./columns";
 import { DataTable } from "./data-table";
 import NavBreadCrumbs from "@/components/NavBreadCrumbs";
+import data from "@/json/conferences.json";
 
 // async function getData(): Promise<FundedProjects[]> {
 //   // Fetch data from your API here.
@@ -15,8 +16,6 @@ import NavBreadCrumbs from "@/components/NavBreadCrumbs";
 //     // ...
 //   ];
 // }
-
-const data: Conferences[] = [];
 
 export default async function DemoPage() {
   return (

@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 "use client";
 
 import { Conferences } from "@/types";
@@ -10,6 +11,7 @@ export const columns: ColumnDef<Conferences>[] = [
   {
     accessorKey: "Sno",
     header: "S.No.",
+    cell: ({ row }) => <p>{row.index + 1}</p>,
   },
   {
     accessorKey: "href",

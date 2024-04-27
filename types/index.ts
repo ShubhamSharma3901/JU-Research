@@ -45,7 +45,7 @@ export type Collab_MOU = {
 };
 
 export type Conferences = {
-  Sno: number;
+  Sno?: number;
   Name_of_conference: string;
   Date: string;
   href?: string;
